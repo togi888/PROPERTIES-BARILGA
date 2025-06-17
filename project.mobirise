@@ -74,12 +74,12 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "FAST PROPERTIES LLC - НҮҮР ХУУДАС",
-        "meta_descr": "",
+        "title": "FAST PROPERTIES LLC - Барилгын дотор засал",
+        "meta_descr": "Барилгын дотор заслын үйлчилгээ - \nЭмульс татна - Хар цагаан замаск татна - Ханын таазны тэгшилгээ - Обой наах Barilgiiin dotor zasal Barilgiin dotor zasal hiine Утас : 88557161",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "meta_image": "@PROJECT_PATH@/assets/images/366539617_122099999756003197_4530779798096190099_n-1024x768.jpg"
+        "meta_image": "@PROJECT_PATH@/assets/images/my%202nd%20company%20logo-1000x1080.png"
       },
       "components": [
         {
