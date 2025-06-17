@@ -28,7 +28,7 @@ body {
   font-size: 3.75rem;
 }
 .display-2 {
-  font-family: 'Inter Tight', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 1.3rem;
   line-height: 1;
 }
@@ -815,6 +815,11 @@ a {
     padding-left: 1.5rem;
   }
 }
+@media (min-width: 992px) {
+  .cid-tObXOMjp6x .navbar-nav {
+    padding-left: 1.5rem;
+  }
+}
 .cid-tObXOMjp6x .nav-link {
   width: fit-content;
   position: relative;
@@ -831,6 +836,11 @@ a {
 .cid-tObXOMjp6x .navbar-caption {
   padding-left: 1rem;
   padding-right: .5rem;
+}
+@media (min-width: 767px) {
+  .cid-tObXOMjp6x .navbar-caption {
+    padding-left: 2rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-tObXOMjp6x .nav-dropdown {
@@ -950,11 +960,6 @@ a {
 }
 .cid-tObXOMjp6x .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tObXOMjp6x .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5rem);
-  }
 }
 .cid-tObXOMjp6x .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -1284,20 +1289,20 @@ a {
 }
 .cid-tOzKWDdz7D {
   background-color: #ffffff;
-  padding-top: 0;
-  padding-bottom: 0;
+  padding-top: 7rem;
+  padding-bottom: 0rem;
 }
 .cid-tOzKWDdz7D .carousel {
+  height: 500px;
+}
+.cid-tOzKWDdz7D .carousel img {
   width: 100%;
-}
-.cid-tOzKWDdz7D .carousel-inner {
-  display: flex;
-  align-content: center;
-  align-items: center;
-}
-.cid-tOzKWDdz7D .carousel-item img {
-  height: 100vh;
+  height: 100%;
   object-fit: cover;
+}
+.cid-tOzKWDdz7D .carousel-item,
+.cid-tOzKWDdz7D .carousel-inner {
+  height: 100%;
 }
 .cid-tOzKWDdz7D img,
 .cid-tOzKWDdz7D .item-wrapper {
@@ -1320,7 +1325,7 @@ a {
 .cid-tOzKWDdz7D .item-wrapper {
   width: 100%;
 }
-@media (max-width: 767px) {
+@media (max-width: 600px) {
   .cid-tOzKWDdz7D .container .carousel-control {
     margin-bottom: 0;
   }
@@ -1402,10 +1407,10 @@ a {
 }
 .cid-tOzKWDdz7D .mbr-section-text,
 .cid-tOzKWDdz7D .mbr-section-btn {
-  color: #ffffff;
+  color: #232323;
 }
 .cid-tOzKWDdz7D H5 {
-  color: #ffffff;
+  color: #000000;
 }
 .cid-uOi6CilBWI {
   padding-top: 90px;
@@ -1907,6 +1912,11 @@ a {
     padding-left: 1.5rem;
   }
 }
+@media (min-width: 992px) {
+  .cid-tObXOMjp6x .navbar-nav {
+    padding-left: 1.5rem;
+  }
+}
 .cid-tObXOMjp6x .nav-link {
   width: fit-content;
   position: relative;
@@ -1923,6 +1933,11 @@ a {
 .cid-tObXOMjp6x .navbar-caption {
   padding-left: 1rem;
   padding-right: .5rem;
+}
+@media (min-width: 767px) {
+  .cid-tObXOMjp6x .navbar-caption {
+    padding-left: 2rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-tObXOMjp6x .nav-dropdown {
@@ -2042,11 +2057,6 @@ a {
 }
 .cid-tObXOMjp6x .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tObXOMjp6x .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5rem);
-  }
 }
 .cid-tObXOMjp6x .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -2631,6 +2641,11 @@ a {
     padding-left: 1.5rem;
   }
 }
+@media (min-width: 992px) {
+  .cid-tObXOMjp6x .navbar-nav {
+    padding-left: 1.5rem;
+  }
+}
 .cid-tObXOMjp6x .nav-link {
   width: fit-content;
   position: relative;
@@ -2647,6 +2662,11 @@ a {
 .cid-tObXOMjp6x .navbar-caption {
   padding-left: 1rem;
   padding-right: .5rem;
+}
+@media (min-width: 767px) {
+  .cid-tObXOMjp6x .navbar-caption {
+    padding-left: 2rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-tObXOMjp6x .nav-dropdown {
@@ -2766,11 +2786,6 @@ a {
 }
 .cid-tObXOMjp6x .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tObXOMjp6x .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5rem);
-  }
 }
 .cid-tObXOMjp6x .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -3343,6 +3358,11 @@ a {
     padding-left: 1.5rem;
   }
 }
+@media (min-width: 992px) {
+  .cid-tObXOMjp6x .navbar-nav {
+    padding-left: 1.5rem;
+  }
+}
 .cid-tObXOMjp6x .nav-link {
   width: fit-content;
   position: relative;
@@ -3359,6 +3379,11 @@ a {
 .cid-tObXOMjp6x .navbar-caption {
   padding-left: 1rem;
   padding-right: .5rem;
+}
+@media (min-width: 767px) {
+  .cid-tObXOMjp6x .navbar-caption {
+    padding-left: 2rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-tObXOMjp6x .nav-dropdown {
@@ -3478,11 +3503,6 @@ a {
 }
 .cid-tObXOMjp6x .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tObXOMjp6x .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5rem);
-  }
 }
 .cid-tObXOMjp6x .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -4005,6 +4025,11 @@ a {
     padding-left: 1.5rem;
   }
 }
+@media (min-width: 992px) {
+  .cid-tObXOMjp6x .navbar-nav {
+    padding-left: 1.5rem;
+  }
+}
 .cid-tObXOMjp6x .nav-link {
   width: fit-content;
   position: relative;
@@ -4021,6 +4046,11 @@ a {
 .cid-tObXOMjp6x .navbar-caption {
   padding-left: 1rem;
   padding-right: .5rem;
+}
+@media (min-width: 767px) {
+  .cid-tObXOMjp6x .navbar-caption {
+    padding-left: 2rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-tObXOMjp6x .nav-dropdown {
@@ -4140,11 +4170,6 @@ a {
 }
 .cid-tObXOMjp6x .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tObXOMjp6x .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5rem);
-  }
 }
 .cid-tObXOMjp6x .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
@@ -4814,6 +4839,11 @@ a {
     padding-left: 1.5rem;
   }
 }
+@media (min-width: 992px) {
+  .cid-tObXOMjp6x .navbar-nav {
+    padding-left: 1.5rem;
+  }
+}
 .cid-tObXOMjp6x .nav-link {
   width: fit-content;
   position: relative;
@@ -4830,6 +4860,11 @@ a {
 .cid-tObXOMjp6x .navbar-caption {
   padding-left: 1rem;
   padding-right: .5rem;
+}
+@media (min-width: 767px) {
+  .cid-tObXOMjp6x .navbar-caption {
+    padding-left: 2rem;
+  }
 }
 @media (max-width: 767px) {
   .cid-tObXOMjp6x .nav-dropdown {
@@ -4949,11 +4984,6 @@ a {
 }
 .cid-tObXOMjp6x .navbar.collapsed.opened .dropdown-menu {
   top: 0;
-}
-@media (min-width: 992px) {
-  .cid-tObXOMjp6x .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5rem);
-  }
 }
 .cid-tObXOMjp6x .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
